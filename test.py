@@ -24,3 +24,4 @@ for cust in customers:
     else:
         print(f"No more tables available for {cust}")
 
+print("Thank you")
